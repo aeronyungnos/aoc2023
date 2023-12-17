@@ -1,1 +1,0 @@
-C:\Users\aeron\Documents\programs\Rust\aoc\day17\target\debug\17_part1.exe: C:\Users\aeron\Documents\programs\Rust\aoc\day17\input\17.txt C:\Users\aeron\Documents\programs\Rust\aoc\day17\src\17_part1.rs
